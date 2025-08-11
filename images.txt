@@ -1,7 +1,4 @@
 # 官方镜像示例
-quay.io/minio/minio:latest
 mysql:8.0
-public.ecr.aws/zinclabs/openobserve:latest
-qdrant/qdrant:latest
 
 # 此处一定要有一行空行
