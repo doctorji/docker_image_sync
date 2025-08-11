@@ -2,7 +2,6 @@
 nginx:1.28.0
 rabbitmq:3.12-management
 redis:bullseye
-docker.elastic.co/elasticsearch/elasticsearch:7.9.2
 quay.io/minio/minio:latest
 mysql:8.0
 public.ecr.aws/zinclabs/openobserve:latest
