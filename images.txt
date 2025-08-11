@@ -1,7 +1,4 @@
 # 官方镜像示例
-nginx:1.28.0
-rabbitmq:3.12-management
-redis:bullseye
 quay.io/minio/minio:latest
 mysql:8.0
 public.ecr.aws/zinclabs/openobserve:latest
